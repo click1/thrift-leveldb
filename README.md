@@ -1,4 +1,4 @@
-##简单的学习thrift 和 leveldb
+##学习thrift 和 leveldb
 
     生成框架:
     thrift --gen cpp level.thrift
